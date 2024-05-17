@@ -2,7 +2,7 @@
 IMPLEMENING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PVT LTD.
 
 # INTRODUCTION
-STYLE LABS IS PRIMARILY FOCUSED ON PROVIDING CLIENTS WITH HIGH-QUALITY DESIGNER CLOTHING. THEY PUT A LOT OF EFFORT INTO CREATING UNIQUE, SUPERIOR DESIGNS THAT SATISFY A RANGE OF STYLISTIC PREFERENCES. AS ITS BUSINESS GROWS, THE COMPANY IS THINKING ABOUT MAKING DECISIONS BASED ON DATA, AND IT HAS BEGUN IMPLEMENTING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES.
+Style labs is primarily focused on providing clients with high-quality designer clothing. They put a lot of effort into creating unique, superior designs that satisfy a range of stylistic preferences. As its business grows, the company is thinking about making decisions based on data, and it has begun implementing certain data storage and data analysis technologies.
 
 # PROBLEMS
 DATA STORAGE
@@ -46,13 +46,26 @@ These tables are interconnected through foreign key relationships, primarily lin
 
   ## MY SQL DATA BASE FOR BUSINESS OPERATIONS
 
-the provided document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. the schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
-the customer_details table stores customer information such as customer id, name, age, gender, and account creation date. the order_details table captures order-related data, including customer id, order id, order time, product details, pricing, discounts, quantities, delivery costs, payment id, and supplier id. the mode_of_payment table maintains payment modes, details, and timestamps.
-the delivery_feedback table records customer feedback on deliveries, including delivery ratings and reviews. the product_feedback table stores customer reviews and ratings for ordered products, along with images. the hub_details table contains information about delivery hubs, such as hub addresses, delivery personnel, delivery times, delivery types, payment modes, and amounts.
-the location_log table tracks customer addresses and mobile numbers for order deliveries. the mode_of_delivery table maintains delivery modes and shipping times for orders. the supplier_details table stores supplier information, including supplier ids, names, and addresses.
-these tables are interconnected through foreign key relationships, ensuring data integrity and facilitating efficient data retrieval and analysis related to customer orders, payments, deliveries, feedback, and supplier information.
+The provided document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. The schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
+The customer_details table stores customer information such as customer id, name, age, gender, and account creation date. The order_details table captures order-related data, including customer id, order id, order time, product details, pricing, discounts, quantities, delivery costs, payment id, and supplier id. The mode_of_payment table maintains payment modes, details, and timestamps.
+The delivery_feedback table records customer feedback on deliveries, including delivery ratings and reviews. The product_feedback table stores customer reviews and ratings for ordered products, along with images. The hub_details table contains information about delivery hubs, such as hub addresses, delivery personnel, delivery times, delivery types, payment modes, and amounts.
+The location_log table tracks customer addresses and mobile numbers for order deliveries. The mode_of_delivery table maintains delivery modes and shipping times for orders. The supplier_details table stores supplier information, including supplier ids, names, and addresses.
+These tables are interconnected through foreign key relationships, ensuring data integrity and facilitating efficient data retrieval and analysis related to customer orders, payments, deliveries, feedback, and supplier information.
 
 
 [VIEW BUSINESS OPERATIONS ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
 
 [VIEW BUSINESS OPERATIONS DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
+
+# DEVELOPED POWER BI DASHBOARD FOR STYLE LABS PVT LTD
+
+Training and Development Dashboard includes the following components:
+Employee Code and Skill Level filters to select specific employees or skill levels.Cost of Training metric displaying the total cost (104K) of training programs.Trainings Attended metric showing the total number (117) of trainings attended by employees.Scheduled Trainings metric indicating the number (62) of upcoming scheduled training sessions.A bar chart displaying the count of employees with different promotion statuses (Promoted, Not Promoted, and Hold).A bar chart showing the count of promotions across different employee designations.Cost Center and Employee Designation filters to analyze data based on cost centers or job designations.A dual bar chart comparing the sum of kpis (Key Performance Indicators) before and after training, indicating the impact of training on employee performance.A Trainings Schedule Trend line chart showing the trend of scheduled trainings over time (in this case, for the year 2024).Recruitment Type and Education Level filters to analyze data based on recruitment types or educational qualifications.Date filters (Joining Date and Training Date) to filter data based on specific date ranges.
+Recruitment Dashboard include:
+Total Employees: Shows the total number of employees, which is 67.Cost of Recruitment: Displays the total cost incurred for recruitment, which is 109K.Total Salaries: Indicates the total salaries paid to employees, which is 13M.Employee Diversity: A bar chart showing the gender diversity of employees, with counts for males and females.Working Status: A bar chart depicting the count of employees based on their working status (on-duty or bench).Employees Recruitment Trend: A line chart showing the trend of employee recruitment over three months (Jan 1999, Feb 1999, Mar 1999).Attrition Rate: A blank metric, potentially indicating that attrition rate data is not available or needs to be calculated.Timestamp: Displays the current timestamp, which is 17-05-2024 22:14:18.
+The dashboard also includes various filters, such as:
+Joining Date: Allows filtering employees based on their joining date range.Emp Code: Enables filtering data based on specific employee codes.Education Level: Filters data based on employees' educational qualifications.Recruitment Type: Allows filtering based on different recruitment types.Salary Grade: Filters data based on employee salary grades.Cost Center: Enables filtering data based on different cost centers.Employee Designation: Allows filtering based on employee job designations.Skill Level: Filters data based on employees' skill levels.
+
+[VIEW HRM POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20HRM%20PDF.pdf)
+
+
