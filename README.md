@@ -57,7 +57,7 @@ These tables are interconnected through foreign key relationships, ensuring data
 
 [VIEW BUSINESS OPERATIONS DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
 
-# DEVELOPED POWER BI DASHBOARD FOR STYLE LABS PVT LTD
+# DEVELOPED RECRUITMENT,TRAINING AND DEVELOPMENT POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
 Training and Development Dashboard includes the following components:
 Employee Code and Skill Level filters to select specific employees or skill levels.Cost of Training metric displaying the total cost (104K) of training programs.Trainings Attended metric showing the total number (117) of trainings attended by employees.Scheduled Trainings metric indicating the number (62) of upcoming scheduled training sessions.A bar chart displaying the count of employees with different promotion statuses (Promoted, Not Promoted, and Hold).A bar chart showing the count of promotions across different employee designations.Cost Center and Employee Designation filters to analyze data based on cost centers or job designations.A dual bar chart comparing the sum of kpis (Key Performance Indicators) before and after training, indicating the impact of training on employee performance.A Trainings Schedule Trend line chart showing the trend of scheduled trainings over time (in this case, for the year 2024).Recruitment Type and Education Level filters to analyze data based on recruitment types or educational qualifications.Date filters (Joining Date and Training Date) to filter data based on specific date ranges.
@@ -68,4 +68,13 @@ Joining Date: Allows filtering employees based on their joining date range.Emp C
 
 [VIEW HRM POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20HRM%20PDF.pdf)
 
+# DEVELOPED BUSINESS OPERATIONS POWER BI DASHBOARD FOR STYLE LABS PVT LTD
+
+"Style Labs Sales Dashboard" that provides an overview of various sales-related metrics and key performance indicators (kpi’s) for the organization.
+The dashboard includes the following key elements:
+Sales: Displays the total sales figure, which is 3M.Discount: Shows the total amount of discounts given, which is 267K.No. Of Products Sold: Indicates the total number of products sold, which is 3017.Customers: Displays the total number of customers, which is 797.Delivery Charges: Shows the total delivery charges collected, which is 151K.Order Trend: A line chart displaying the trend of orders placed over time.
+The dashboard also includes various filters and slicers, such as:
+Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., same-day, express, etc.).Suppliers: Enables filtering data based on specific suppliers.Logistic Firms: Allows filtering data based on the logistic firms involved in delivery.Mode of Payment: Filters data based on the payment modes used by customers.Gender Wise: Allows filtering data based on the gender of customers.Customer ID Wise: Enables filtering data based on specific customer ids.Customer Name Wise: Allows filtering data based on customer names.Order ID Wise: Filters data based on specific order ids.
+
+[VIEW OPERATION POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20OPERATIONS%20PDF.pdf)
 
