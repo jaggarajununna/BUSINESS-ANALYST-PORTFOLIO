@@ -78,7 +78,7 @@ Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., sam
 
 [VIEW OPERATION POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20OPERATIONS%20PDF.pdf)
 
-# POWER AUTOMATE FOR PROFILE SCREENING
+# POWER AUTOMATE FOR JOB APPLICANT PROFILE SCREENING
 
 Start: The process begins when a new response is submitted.
 Get Response Details: This step involves gathering information related to the response.
