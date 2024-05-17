@@ -78,3 +78,18 @@ Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., sam
 
 [VIEW OPERATION POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20OPERATIONS%20PDF.pdf)
 
+# POWER AUTOMATE FOR PROFILE SCREENING
+
+Start: The process begins when a new response is submitted.
+Get Response Details: This step involves gathering information related to the response.
+Condition: The process then evaluates profile skill match with required skills. Depending on whether the condition is true or false, it takes different paths:
+True Path:
+Add a Row into a Table: If the condition is true, a row is added into a selection table.
+Send an Email (V2): Following that, an email is sent.
+False Path:
+Add a Row into Table 1: If the condition is false, a row is added into rejection table.
+Send an Email (V2) 1: An email is sent in this case as well.
+
+[VIEW POWER AUTOMATION](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
+
+
