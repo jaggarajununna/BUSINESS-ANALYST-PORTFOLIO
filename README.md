@@ -1,8 +1,8 @@
 # STYLELABS
-implementing certain data storage and data analysis technologies at Style Labs Pvt. Ltd.
+IMPLEMENING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PVT LTD.
 
 # INTRODUCTION
-Style Labs is primarily focused on providing clients with high-quality designer clothing. They put a lot of effort into creating unique, superior designs that satisfy a range of stylistic preferences. As its business grows, the company is thinking about making decisions based on data, and it has begun implementing certain data storage and data analysis technologies.
+STYLE LABS IS PRIMARILY FOCUSED ON PROVIDING CLIENTS WITH HIGH-QUALITY DESIGNER CLOTHING. THEY PUT A LOT OF EFFORT INTO CREATING UNIQUE, SUPERIOR DESIGNS THAT SATISFY A RANGE OF STYLISTIC PREFERENCES. AS ITS BUSINESS GROWS, THE COMPANY IS THINKING ABOUT MAKING DECISIONS BASED ON DATA, AND IT HAS BEGUN IMPLEMENTING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES.
 
 # PROBLEMS
 DATA STORAGE
