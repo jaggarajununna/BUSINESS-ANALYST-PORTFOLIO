@@ -27,11 +27,12 @@ DATA DRIVEN DECISION MAKING
 # DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
    ## MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
-    
-THE PROVIDED DOCUMENT PRESENTS THE SCHEMA FOR A MYSQL DATABASE NAMED "STYLELABS_HR" DESIGNED TO STORE AND MANAGE EMPLOYEE-RELATED INFORMATION. THE SCHEMA CONSISTS OF SEVEN INTERCONNECTED TABLES: COST_CENTER, EDUCATION_DETAILS, EMPLOYEE_DETAILS, EMP_DESIGNATION_PROMOTION, RECRUITMENT_TYPE, SALARY_BAND, AND TRAINING_DETAILS.
-THE COST_CENTER TABLE STORES DETAILS ABOUT THE EMPLOYEE'S COST CENTER, INCLUDING THE EMPLOYEE CODE, STRATEGIC BUSINESS UNIT (SBU) ADDRESS, AND JOINING DATE. THE EDUCATION_DETAILS TABLE RECORDS THE HIGHEST EDUCATIONAL QUALIFICATION FOR EACH EMPLOYEE. THE EMPLOYEE_DETAILS TABLE SERVES AS THE CENTRAL ENTITY, CONTAINING PERSONAL INFORMATION SUCH AS NAME, AGE, GENDER, CONTACT DETAILS, ADDRESS, WORK EXPERIENCE, AND EMPLOYMENT STATUS.
-THE EMP_DESIGNATION_PROMOTION TABLE TRACKS EMPLOYEES' JOB DESIGNATIONS, PROMOTION STATUSES, AND NEW DESIGNATIONS AFTER PROMOTIONS. THE RECRUITMENT_TYPE TABLE CAPTURES THE RECRUITMENT MODE, ASSOCIATED COSTS, AND SKILL LEVELS FOR EACH EMPLOYEE. THE SALARY_BAND TABLE MAINTAINS THE SALARY GRADE AND CORRESPONDING SALARY FOR EMPLOYEES. FINALLY, THE TRAINING_DETAILS TABLE RECORDS INFORMATION ABOUT EMPLOYEE TRAINING, INCLUDING TRAINING DATES, KEY PERFORMANCE INDICATORS (KPIS) BEFORE AND AFTER TRAINING, TYPES OF TRAINING, TRAINING COSTS, AND THE NUMBER OF SCHEDULED TRAINING SESSIONS.
-THESE TABLES ARE INTERCONNECTED THROUGH FOREIGN KEY RELATIONSHIPS, PRIMARILY LINKING TO THE EMPLOYEE_CODE COLUMN IN THE EMPLOYEE_DETAILS TABLE, ENSURING DATA INTEGRITY AND ENABLING EFFICIENT DATA RETRIEVAL AND ANALYSIS RELATED TO EMPLOYEE INFORMATION ACROSS DIFFERENT ASPECTS OF HUMAN RESOURCE MANAGEMENT.
+   
+The provided document presents the schema for a mysql database named "stylelabs_hr" designed to store and manage employee-related information. The schema consists of seven interconnected tables: cost_center, education_details, employee_details, emp_designation_promotion, recruitment_type, salary_band, and training_details.
+The cost_center table stores details about the employee's cost center, including the employee code, strategic business unit (sbu) address, and joining date. The education_details table records the highest educational qualification for each employee. The employee_details table serves as the central entity, containing personal information such as name, age, gender, contact details, address, work experience, and employment status.
+The emp_designation_promotion table tracks employees' job designations, promotion statuses, and new designations after promotions. The recruitment_type table captures the recruitment mode, associated costs, and skill levels for each employee. The salary_band table maintains the salary grade and corresponding salary for employees. Finally, the training_details table records information about employee training, including training dates, key performance indicators (kpis) before and after training, types of training, training costs, and the number of scheduled training sessions.
+These tables are interconnected through foreign key relationships, primarily linking to the employee_code column in the employee_details table, ensuring data integrity and enabling efficient data retrieval and analysis related to employee information across different aspects of human resource management.
+
 
 [VIEW HRM ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png).
 
@@ -39,11 +40,12 @@ THESE TABLES ARE INTERCONNECTED THROUGH FOREIGN KEY RELATIONSHIPS, PRIMARILY LIN
 
   ## MY SQL DATA BASE FOR BUSINESS OPERATIONS
 
-THE PROVIDED DOCUMENT OUTLINES THE SCHEMA FOR A MYSQL DATABASE CALLED "STYLELABS_OPERATION" DESIGNED TO MANAGE AN E-COMMERCE OPERATION. THE SCHEMA CONSISTS OF NINE INTERCONNECTED TABLES: CUSTOMER_DETAILS, DELIVERY_FEEDBACK, HUB_DETAILS, LOCATION_LOG, MODE_OF_DELIVERY, MODE_OF_PAYMENT, ORDER_DETAILS, PRODUCT_FEEDBACK, AND SUPPLIER_DETAILS.
-THE CUSTOMER_DETAILS TABLE STORES CUSTOMER INFORMATION SUCH AS CUSTOMER ID, NAME, AGE, GENDER, AND ACCOUNT CREATION DATE. THE ORDER_DETAILS TABLE CAPTURES ORDER-RELATED DATA, INCLUDING CUSTOMER ID, ORDER ID, ORDER TIME, PRODUCT DETAILS, PRICING, DISCOUNTS, QUANTITIES, DELIVERY COSTS, PAYMENT ID, AND SUPPLIER ID. THE MODE_OF_PAYMENT TABLE MAINTAINS PAYMENT MODES, DETAILS, AND TIMESTAMPS.
-THE DELIVERY_FEEDBACK TABLE RECORDS CUSTOMER FEEDBACK ON DELIVERIES, INCLUDING DELIVERY RATINGS AND REVIEWS. THE PRODUCT_FEEDBACK TABLE STORES CUSTOMER REVIEWS AND RATINGS FOR ORDERED PRODUCTS, ALONG WITH IMAGES. THE HUB_DETAILS TABLE CONTAINS INFORMATION ABOUT DELIVERY HUBS, SUCH AS HUB ADDRESSES, DELIVERY PERSONNEL, DELIVERY TIMES, DELIVERY TYPES, PAYMENT MODES, AND AMOUNTS.
-THE LOCATION_LOG TABLE TRACKS CUSTOMER ADDRESSES AND MOBILE NUMBERS FOR ORDER DELIVERIES. THE MODE_OF_DELIVERY TABLE MAINTAINS DELIVERY MODES AND SHIPPING TIMES FOR ORDERS. THE SUPPLIER_DETAILS TABLE STORES SUPPLIER INFORMATION, INCLUDING SUPPLIER IDS, NAMES, AND ADDRESSES.
-THESE TABLES ARE INTERCONNECTED THROUGH FOREIGN KEY RELATIONSHIPS, ENSURING DATA INTEGRITY AND FACILITATING EFFICIENT DATA RETRIEVAL AND ANALYSIS RELATED TO CUSTOMER ORDERS, PAYMENTS, DELIVERIES, FEEDBACK, AND SUPPLIER INFORMATION.
+the provided document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. the schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
+the customer_details table stores customer information such as customer id, name, age, gender, and account creation date. the order_details table captures order-related data, including customer id, order id, order time, product details, pricing, discounts, quantities, delivery costs, payment id, and supplier id. the mode_of_payment table maintains payment modes, details, and timestamps.
+the delivery_feedback table records customer feedback on deliveries, including delivery ratings and reviews. the product_feedback table stores customer reviews and ratings for ordered products, along with images. the hub_details table contains information about delivery hubs, such as hub addresses, delivery personnel, delivery times, delivery types, payment modes, and amounts.
+the location_log table tracks customer addresses and mobile numbers for order deliveries. the mode_of_delivery table maintains delivery modes and shipping times for orders. the supplier_details table stores supplier information, including supplier ids, names, and addresses.
+these tables are interconnected through foreign key relationships, ensuring data integrity and facilitating efficient data retrieval and analysis related to customer orders, payments, deliveries, feedback, and supplier information.
+
 
 [VIEW BUSINESS OPERATIONS ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
 
