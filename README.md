@@ -93,20 +93,8 @@ Send an Email (V2) 1: An email is sent in this case as well.
 [VIEW POWER AUTOMATION](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
 
 # COMBOS AND RECOMMENDATIONS FOR CUSTOMERS WHERE CREATED USING MARKET BASKET ANALYSIS
-            lhs                      rhs               support   confidence coverage   lift    
-[22] {SL CUSTOM TROUSER-4} => {SL CUSTOM TROUSER-3}  0.08411215 1.00000000 0.08411215 7.925926
-[23] {SL CUSTOM TROUSER-3} => {SL CUSTOM TROUSER-4}  0.08411215 0.66666667 0.12616822 7.925926
-[24] {SL CUSTOM CHAINS-3}  => {SL CUSTOM CHAINS-2}   0.10747664 0.92000000 0.11682243 7.572308
-[25] {SL CUSTOM CHAINS-2}  => {SL CUSTOM CHAINS-3}   0.10747664 0.88461538 0.12149533 7.572308
-[26] {SL CUSTOM TROUSER-2} => {SL CUSTOM TROUSER-3}  0.08411215 0.81818182 0.10280374 6.484848
-[27] {SL CUSTOM TROUSER-3} => {SL CUSTOM TROUSER-2}  0.08411215 0.66666667 0.12616822 6.484848
-[28] {SL CUSTOM JOGGERS-2} => {SL CUSTOM JOGGERS-3}  0.09345794 0.58823529 0.15887850 3.496732
-[29] {SL CUSTOM JOGGERS-3} => {SL CUSTOM JOGGERS-2}  0.09345794 0.55555556 0.16822430 3.496732
-[30] {SL CUSTOM SHIRT-3}   => {SL CUSTOM SHIRT-2}    0.10747664 0.82142857 0.13084112 5.670507
-[31] {SL CUSTOM SHIRT-2}   => {SL CUSTOM SHIRT-3}    0.10747664 0.74193548 0.14485981 5.670507
 
 Based on the data, a strong association exists between SL Custom Joggers-2 and SL Custom Joggers-3. This suggests customers who purchase SL Custom Joggers-2 are also highly likely to buy SL Custom Joggers-3 in the same transaction.Support: 0.0935 - Around 9.35% of transactions contain both joggers styles.
 Confidence: High values (0.588 & 0.555): If a customer buys SL Custom Joggers-2, there's a 58.8% or 55.5% chance they'll also purchase SL Custom Joggers-3, depending on the direction of the rule (28 or 29).
 Lift: 3.49 - This value is significantly higher than 1, indicating a strong association. Customers are over 3 times more likely to buy both jogger styles together than buying them independently.
-
 
