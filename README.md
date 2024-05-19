@@ -20,8 +20,6 @@ DATA DRIVEN DECISION MAKING
  
  MS OFFICE
  
- PYTHON
- 
  R-PROGRAMME
  
  POWER AUTOMATE
@@ -56,6 +54,7 @@ These tables are interconnected through foreign key relationships, ensuring data
 [VIEW BUSINESS OPERATIONS ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
 
 [VIEW BUSINESS OPERATIONS DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
+
 
 # DEVELOPED RECRUITMENT,TRAINING AND DEVELOPMENT POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
