@@ -19,6 +19,7 @@ POWER AUTOMATE FOR HR SCREENING PROCESS
 DATA DRIVEN DECISION MAKING
 
  # TOOLS USED
+ 
  MY SQL
  
  MS OFFICE
@@ -33,20 +34,18 @@ DATA DRIVEN DECISION MAKING
 
 # SEGMENTATION OF MARKET
 
+The 100 responses were divided into two groups with sizes of 47 and 53, respectively, via the k-modes clustering method. The combination of age group, salary, event, and preferences determined the clustering. The modes, or most frequent values, for each cluster were revealed. These revealed that Cluster 1 was defined by individuals between the ages of 36 and 45 who made over $100,000 per year, attended festivals, and preferred trendy styles, while Cluster 2 was defined by individuals between the ages of 26 and 35 who made over $50,000 per year, went on dates, and preferred casual styles.Responses are divided into two segments; based on this, we can design marketing strategies accordingly to cater to the preferences of each segement of customers.
 
-
-[VIEW CLUSTER ANALYSIS]()
+[VIEW CLUSTER ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf)
  
-
 # DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
    ## MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
    
-The provided document presents the schema for a mysql database named "stylelabs_hr" designed to store and manage employee-related information. The schema consists of seven interconnected tables: cost_center, education_details, employee_details, emp_designation_promotion, recruitment_type, salary_band, and training_details.
+This document presents the schema for a mysql database named "stylelabs_hr" designed to store and manage employee-related information. The schema consists of seven interconnected tables: cost_center, education_details, employee_details, emp_designation_promotion, recruitment_type, salary_band, and training_details.
 The cost_center table stores details about the employee's cost center, including the employee code, strategic business unit (sbu) address, and joining date. The education_details table records the highest educational qualification for each employee. The employee_details table serves as the central entity, containing personal information such as name, age, gender, contact details, address, work experience, and employment status.
 The emp_designation_promotion table tracks employees' job designations, promotion statuses, and new designations after promotions. The recruitment_type table captures the recruitment mode, associated costs, and skill levels for each employee. The salary_band table maintains the salary grade and corresponding salary for employees. Finally, the training_details table records information about employee training, including training dates, key performance indicators (kpis) before and after training, types of training, training costs, and the number of scheduled training sessions.
 These tables are interconnected through foreign key relationships, primarily linking to the employee_code column in the employee_details table, ensuring data integrity and enabling efficient data retrieval and analysis related to employee information across different aspects of human resource management.
-
 
 [VIEW HRM ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png).
 
@@ -54,17 +53,15 @@ These tables are interconnected through foreign key relationships, primarily lin
 
   ## MY SQL DATA BASE FOR BUSINESS OPERATIONS
 
-The provided document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. The schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
+This document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. The schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
 The customer_details table stores customer information such as customer id, name, age, gender, and account creation date. The order_details table captures order-related data, including customer id, order id, order time, product details, pricing, discounts, quantities, delivery costs, payment id, and supplier id. The mode_of_payment table maintains payment modes, details, and timestamps.
 The delivery_feedback table records customer feedback on deliveries, including delivery ratings and reviews. The product_feedback table stores customer reviews and ratings for ordered products, along with images. The hub_details table contains information about delivery hubs, such as hub addresses, delivery personnel, delivery times, delivery types, payment modes, and amounts.
 The location_log table tracks customer addresses and mobile numbers for order deliveries. The mode_of_delivery table maintains delivery modes and shipping times for orders. The supplier_details table stores supplier information, including supplier ids, names, and addresses.
 These tables are interconnected through foreign key relationships, ensuring data integrity and facilitating efficient data retrieval and analysis related to customer orders, payments, deliveries, feedback, and supplier information.
 
-
 [VIEW BUSINESS OPERATIONS ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
 
 [VIEW BUSINESS OPERATIONS DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
-
 
 # DEVELOPED RECRUITMENT,TRAINING AND DEVELOPMENT POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
