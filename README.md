@@ -72,7 +72,7 @@ Total Employees: Shows the total number of employees, which is 67.Cost of Recrui
 The dashboard also includes various filters, such as:
 Joining Date: Allows filtering employees based on their joining date range.Emp Code: Enables filtering data based on specific employee codes.Education Level: Filters data based on employees' educational qualifications.Recruitment Type: Allows filtering based on different recruitment types.Salary Grade: Filters data based on employee salary grades.Cost Center: Enables filtering data based on different cost centers.Employee Designation: Allows filtering based on employee job designations.Skill Level: Filters data based on employees' skill levels.
 
-[VIEW HRM POWER BI DASHBOARD](https://github.com/jaggaraj/STYLELABS/blob/main/POWER%20BI%20HRM%20PDF.pdf)
+[VIEW HRM POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNzhjYWYyYjYtMzU0NC00ZTI5LThlZDUtODJlMDE4ZGE5ODlkIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # DEVELOPED BUSINESS OPERATIONS POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
