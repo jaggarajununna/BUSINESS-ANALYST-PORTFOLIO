@@ -5,6 +5,9 @@ IMPLEMENING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PV
 Style labs is primarily focused on providing clients with high-quality designer clothing. They put a lot of effort into creating unique, superior designs that satisfy a range of stylistic preferences. As its business grows, the company is thinking about making decisions based on data, and it has begun implementing certain data storage and data analysis technologies.
 
 # PROBLEMS
+
+MARKET SEGMENTATION
+
 DATA STORAGE
 
 POWER BI DASHBOARDS
@@ -27,6 +30,13 @@ DATA DRIVEN DECISION MAKING
  VISIO
  
  POWER BI
+
+# SEGMENTATION OF MARKET
+
+
+
+[VIEW CLUSTER ANALYSIS]()
+ 
 
 # DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
