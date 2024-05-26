@@ -14,7 +14,13 @@ POWER BI DASHBOARDS
 
 DESIGNING OF COMBOS
 
-POWER AUTOMATE FOR HR SCREENING PROCESS
+RESUME SCREENER
+
+WEB SCRAPPING
+
+DATA CLEANING
+
+PREDICTING EMPLOYEE CHURN
 
 DATA DRIVEN DECISION MAKING
 
@@ -25,6 +31,8 @@ DATA DRIVEN DECISION MAKING
  MS OFFICE
  
  R-PROGRAMME
+
+ PYTHON
  
  POWER AUTOMATE
  
@@ -111,4 +119,3 @@ Lift: 3.49 - This value is significantly higher than 1, indicating a strong asso
 
 
 ![White Hand Drawn simple Coming Soon Instagram Post](https://github.com/jaggaraj/STYLELABS/assets/123171411/b2e24960-5024-406c-9bfe-5168e551f2d6) 
-
