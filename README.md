@@ -1,4 +1,5 @@
-# ![style labs](https://github.com/jaggaraj/STYLELABS/assets/123171411/6852fb98-b375-40e4-acfb-7c0c0b924001) STYLELABS
+![White Minimalist Profile LinkedIn Banner](https://github.com/jaggaraj/STYLELABS/assets/123171411/f4a777d9-8180-45af-b01c-126da67f3c44)
+
 IMPLEMENING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PVT LTD.
 
 # INTRODUCTION
@@ -133,6 +134,12 @@ The DataFrame is then truncated to include only the first 20 rows using dt = dt.
 Any missing values (NaN) in the DataFrame are filled with an empty string ' ' using dt = dt.fillna(' ').
 Finally, the cleaned and processed DataFrame dt is displayed.
 
+
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled3.py)
 
+
+![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/jaggaraj/STYLELABS/assets/123171411/99007dbd-fbf5-4e88-b941-169a7b730edf)
+
+
 ![White Hand Drawn simple Coming Soon Instagram Post](https://github.com/jaggaraj/STYLELABS/assets/123171411/b2e24960-5024-406c-9bfe-5168e551f2d6) 
+
