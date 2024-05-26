@@ -105,3 +105,10 @@ Confidence: High values (0.588 & 0.555): If a customer buys SL Custom Joggers-2,
 Lift: 3.49 - This value is significantly higher than 1, indicating a strong association. Customers are over 3 times more likely to buy both jogger styles together than buying them independently.
 
 [VIEW MARKET BASKET ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/MARKET%20BASKET%20ANALYISIS.pdf)
+
+
+
+
+
+![White Hand Drawn simple Coming Soon Instagram Post](https://github.com/jaggaraj/STYLELABS/assets/123171411/b2e24960-5024-406c-9bfe-5168e551f2d6) 
+
