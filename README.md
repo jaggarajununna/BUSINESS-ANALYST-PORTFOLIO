@@ -44,7 +44,7 @@ DATA DRIVEN DECISION MAKING
 
 The 100 responses were divided into two groups with sizes of 47 and 53, respectively, via the k-modes clustering method. The combination of age group, salary, event, and preferences determined the clustering. The modes, or most frequent values, for each cluster were revealed. These revealed that Cluster 1 was defined by individuals between the ages of 36 and 45 who made over $100,000 per year, attended festivals, and preferred trendy styles, while Cluster 2 was defined by individuals between the ages of 26 and 35 who made over $50,000 per year, went on dates, and preferred casual styles.Responses are divided into two segments; based on this, we can design marketing strategies accordingly to cater to the preferences of each segement of customers.
 
-[VIEW CLUSTER ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf)
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf)
  
 # DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
@@ -55,9 +55,9 @@ The cost_center table stores details about the employee's cost center, including
 The emp_designation_promotion table tracks employees' job designations, promotion statuses, and new designations after promotions. The recruitment_type table captures the recruitment mode, associated costs, and skill levels for each employee. The salary_band table maintains the salary grade and corresponding salary for employees. Finally, the training_details table records information about employee training, including training dates, key performance indicators (kpis) before and after training, types of training, training costs, and the number of scheduled training sessions.
 These tables are interconnected through foreign key relationships, primarily linking to the employee_code column in the employee_details table, ensuring data integrity and enabling efficient data retrieval and analysis related to employee information across different aspects of human resource management.
 
-[VIEW HRM ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png).
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png).
 
-[VIEW HRM DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_hr%20%20schema.pdf).
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_hr%20%20schema.pdf).
 
   ## MY SQL DATA BASE FOR BUSINESS OPERATIONS
 
@@ -67,9 +67,9 @@ The delivery_feedback table records customer feedback on deliveries, including d
 The location_log table tracks customer addresses and mobile numbers for order deliveries. The mode_of_delivery table maintains delivery modes and shipping times for orders. The supplier_details table stores supplier information, including supplier ids, names, and addresses.
 These tables are interconnected through foreign key relationships, ensuring data integrity and facilitating efficient data retrieval and analysis related to customer orders, payments, deliveries, feedback, and supplier information.
 
-[VIEW BUSINESS OPERATIONS ER DIAGRAM](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png).
 
-[VIEW BUSINESS OPERATIONS DATABASE SCHEMA](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_operation%20schema.pdf).
 
 # DEVELOPED RECRUITMENT,TRAINING AND DEVELOPMENT POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
@@ -80,7 +80,7 @@ Total Employees: Shows the total number of employees, which is 67.Cost of Recrui
 The dashboard also includes various filters, such as:
 Joining Date: Allows filtering employees based on their joining date range.Emp Code: Enables filtering data based on specific employee codes.Education Level: Filters data based on employees' educational qualifications.Recruitment Type: Allows filtering based on different recruitment types.Salary Grade: Filters data based on employee salary grades.Cost Center: Enables filtering data based on different cost centers.Employee Designation: Allows filtering based on employee job designations.Skill Level: Filters data based on employees' skill levels.
 
-[VIEW HRM POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiNzhjYWYyYjYtMzU0NC00ZTI5LThlZDUtODJlMDE4ZGE5ODlkIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiNzhjYWYyYjYtMzU0NC00ZTI5LThlZDUtODJlMDE4ZGE5ODlkIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # DEVELOPED BUSINESS OPERATIONS POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
@@ -90,7 +90,7 @@ Sales: Displays the total sales figure, which is 3M.Discount: Shows the total am
 The dashboard also includes various filters and slicers, such as:
 Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., same-day, express, etc.).Suppliers: Enables filtering data based on specific suppliers.Logistic Firms: Allows filtering data based on the logistic firms involved in delivery.Mode of Payment: Filters data based on the payment modes used by customers.Gender Wise: Allows filtering data based on the gender of customers.Customer ID Wise: Enables filtering data based on specific customer ids.Customer Name Wise: Allows filtering data based on customer names.Order ID Wise: Filters data based on specific order ids.
 
-[VIEW OPERATION POWER BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiOWI0YTI5MDYtZjRlYS00ZjI3LTk3NDctMDY2ZDY0MjI0OTIxIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiOWI0YTI5MDYtZjRlYS00ZjI3LTk3NDctMDY2ZDY0MjI0OTIxIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # POWER AUTOMATE FOR JOB APPLICANT PROFILE SCREENING
 
@@ -104,7 +104,7 @@ False Path:
 Add a Row into Table 1: If the condition is false, a row is added into rejection table.
 Send an Email (V2) 1: An email is sent in this case as well.
 
-[VIEW POWER AUTOMATION](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
 
 # COMBOS AND RECOMMENDATIONS FOR CUSTOMERS WHERE CREATED USING MARKET BASKET ANALYSIS
 
@@ -112,10 +112,27 @@ Based on the data, a strong association exists between SL Custom Joggers-2 and S
 Confidence: High values (0.588 & 0.555): If a customer buys SL Custom Joggers-2, there's a 58.8% or 55.5% chance they'll also purchase SL Custom Joggers-3, depending on the direction of the rule (28 or 29).
 Lift: 3.49 - This value is significantly higher than 1, indicating a strong association. Customers are over 3 times more likely to buy both jogger styles together than buying them independently.
 
-[VIEW MARKET BASKET ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/MARKET%20BASKET%20ANALYISIS.pdf)
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/MARKET%20BASKET%20ANALYISIS.pdf)
 
+# PREDICTING EMPLOYEE CHURN 
 
+Each row represents an individual, and the columns are features or attributes related to their performance, experience, and other factors. Here's a brief description of the columns:kpi: Likely stands for Key Performance Indicator, which could be a metric or score quantifying an employee's overall performance.experience: The number of years of experience the employee has.total ratings: Could be an average rating or score for the employee, possibly based on customer or peer feedback.total hikes: The total number of salary or compensation increases received by the employee.no.of promotions: The number of promotions the employee has received.total sales: The total sales volume or revenue generated by the employee (applicable for sales roles).total salary: The total salary or compensation received by the employee.total working hours: The total number of working hours logged by the employee.no.of trainings: The number of training programs or sessions the employee has attended.no.of stress relief program: The number of stress relief or wellness programs the employee has participated in.turn over: This could be a binary indicator (1 or 2) representing whether the employee has left the organization (turned over) or not.random forest model got 65 accuracy it can predict the employee turnover.
 
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled2.ipynb)
 
+#  DATA CLEANING
+
+imports the necessary libraries: pandas for data manipulation, numpy for numerical operations, and 
+ydata_profiling for generating a profile report of the dataset.
+
+The ProfileReport function from the ydata_profiling library is called on the dt DataFrame to generate a descriptive report of the dataset.
+The code then displays the entire dt DataFrame.
+The dt['marks'] column is cleaned by removing certain special characters (!#$%@}{][|^&''""*^)()) from each entry using the str.strip() method.
+Similarly, the dt['name'] column is cleaned by removing special characters and digits from each entry using str.strip().
+The DataFrame is then truncated to include only the first 20 rows using dt = dt.iloc[:20].
+Any missing values (NaN) in the DataFrame are filled with an empty string ' ' using dt = dt.fillna(' ').
+Finally, the cleaned and processed DataFrame dt is displayed.
+
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled3.py)
 
 ![White Hand Drawn simple Coming Soon Instagram Post](https://github.com/jaggaraj/STYLELABS/assets/123171411/b2e24960-5024-406c-9bfe-5168e551f2d6) 
