@@ -21,7 +21,7 @@ WEB SCRAPPING
 
 DATA CLEANING
 
-PREDICTING EMPLOYEE CHURN
+PREDICTING
 
 DATA DRIVEN DECISION MAKING
 
@@ -32,7 +32,7 @@ DATA DRIVEN DECISION MAKING
  
  MS OFFICE
  
- R-PROGRAMME
+ R-PROGRAME
 
  PYTHON
  
@@ -135,8 +135,13 @@ The DataFrame is then truncated to include only the first 20 rows using dt = dt.
 Any missing values (NaN) in the DataFrame are filled with an empty string ' ' using dt = dt.fillna(' ').
 Finally, the cleaned and processed DataFrame dt is displayed.
 
-
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled3.py)
+
+# TIMESERIES FOECASTING
+
+Output provided is a univarient time series analysis ARIMA (Autoregressive Integrated Moving Average) model in R. It shows the point forecasts and prediction intervals for future time periods.For January 2012, there is an 80% probability that the true value will fall between 10.225423 and 11.71738.For January 2012, there is a 95% probability that the true value will fall between 9.830527 and 12.11227.
+
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/arima.pdf)
 
 
 ![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/jaggaraj/STYLELABS/assets/123171411/99007dbd-fbf5-4e88-b941-169a7b730edf)
