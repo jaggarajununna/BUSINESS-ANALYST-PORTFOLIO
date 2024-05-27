@@ -61,7 +61,7 @@ These tables are interconnected through foreign key relationships, primarily lin
 
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs_hr%20%20schema.pdf).
 
-  ## MY SQL DATA BASE FOR BUSINESS OPERATIONS
+# MY SQL DATA BASE FOR BUSINESS OPERATIONS
 
 This document outlines the schema for a mysql database called "stylelabs_operation" designed to manage an e-commerce operation. The schema consists of nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details.
 The customer_details table stores customer information such as customer id, name, age, gender, and account creation date. The order_details table captures order-related data, including customer id, order id, order time, product details, pricing, discounts, quantities, delivery costs, payment id, and supplier id. The mode_of_payment table maintains payment modes, details, and timestamps.
@@ -137,7 +137,7 @@ Finally, the cleaned and processed DataFrame dt is displayed.
 
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled3.py)
 
-# TIMESERIES FORECASTING
+# FORECASTING SALES 
 
 Output provided is a univarient time series analysis ARIMA (Autoregressive Integrated Moving Average) model in R. It shows the point forecasts and prediction intervals for future time periods.For January 2012, there is an 80% probability that the true value will fall between 10.225423 and 11.71738.For January 2012, there is a 95% probability that the true value will fall between 9.830527 and 12.11227.
 
