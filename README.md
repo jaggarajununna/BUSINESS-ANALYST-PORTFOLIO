@@ -145,7 +145,7 @@ Output provided is a univarient time series analysis ARIMA (Autoregressive Integ
 
 code for using the Prophet library in R for time series forecasting. Prophet is an open-source library developed by Facebook's Core Data Science team for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.output suggests there will be downward trend 
 
-(https://github.com/jaggaraj/STYLELABS/blob/main/prophet%20by%20facebook.pdf)
+[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/prophet%20by%20facebook.pdf)
 
 
 ![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/jaggaraj/STYLELABS/assets/123171411/99007dbd-fbf5-4e88-b941-169a7b730edf)
