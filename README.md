@@ -54,7 +54,7 @@ The 100 responses were divided into two groups with sizes of 47 and 53, respecti
  
 # DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
-   ## MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
+# MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
    
 This document presents the schema for a mysql database named "stylelabs_hr" designed to store and manage employee-related information. The schema consists of seven interconnected tables: cost_center, education_details, employee_details, emp_designation_promotion, recruitment_type, salary_band, and training_details.
 The cost_center table stores details about the employee's cost center, including the employee code, strategic business unit (sbu) address, and joining date. The education_details table records the highest educational qualification for each employee. The employee_details table serves as the central entity, containing personal information such as name, age, gender, contact details, address, work experience, and employment status.
