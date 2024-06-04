@@ -139,7 +139,7 @@ The DataFrame is then truncated to include only the first 20 rows using dt = dt.
 Any missing values (NaN) in the DataFrame are filled with an empty string ' ' using dt = dt.fillna(' ').
 Finally, the cleaned and processed DataFrame dt is displayed.
 
-[CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled3.ipynb)
+[CLICK HERE TO VIEW](Untitled10.ipynb)
 
 # FORECASTING SALES 
 
