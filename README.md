@@ -151,7 +151,7 @@ code for using the Prophet library in R for time series forecasting. Prophet is 
 
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/prophet%20by%20facebook.pdf)
 
-[CLICK HERE TO VIEW](file:///C:/Users/Dell/Documents/rt.html)
+file:///C:/Users/Dell/Documents/rt.html
 
 
 ![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/jaggaraj/STYLELABS/assets/123171411/99007dbd-fbf5-4e88-b941-169a7b730edf)
