@@ -27,22 +27,8 @@ DATA DRIVEN DECISION MAKING
 
 #  TOOLS USED
 
- 
- MY SQL
- 
- MS OFFICE
- 
- R-PROGRAME
+ ![R](https://github.com/jaggarajununna/STYLELABS/assets/123171411/19c06d87-d0ea-472b-9528-84a28580775a)
 
- PYTHON
-
- SPSS
- 
- POWER AUTOMATE
- 
- VISIO
- 
- POWER BI
 
 # SEGMENTATION OF MARKET
 
@@ -52,7 +38,6 @@ The 100 responses were divided into two groups with sizes of 47 and 53, respecti
 
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/cluster%20analysis.pdf) SPSS
  
-# DEVELOPED MYSQL DATABASE FOR STYLE LABS PVT LTD
 
 # MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
    
