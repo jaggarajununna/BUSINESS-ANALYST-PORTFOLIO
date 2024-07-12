@@ -65,7 +65,7 @@ Total Employees: Shows the total number of employees, which is 67.Cost of Recrui
 The dashboard also includes various filters, such as:
 Joining Date: Allows filtering employees based on their joining date range.Emp Code: Enables filtering data based on specific employee codes.Education Level: Filters data based on employees' educational qualifications.Recruitment Type: Allows filtering based on different recruitment types.Salary Grade: Filters data based on employee salary grades.Cost Center: Enables filtering data based on different cost centers.Employee Designation: Allows filtering based on employee job designations.Skill Level: Filters data based on employees' skill levels.
 
-[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiNzhjYWYyYjYtMzU0NC00ZTI5LThlZDUtODJlMDE4ZGE5ODlkIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiODE5NWZjZDQtNDU0MC00ZTY4LTgzMzYtOTliMDI5NDg4MGI5IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # DEVELOPED BUSINESS OPERATIONS POWER BI DASHBOARD FOR STYLE LABS PVT LTD
 
@@ -75,7 +75,7 @@ Sales: Displays the total sales figure, which is 3M.Discount: Shows the total am
 The dashboard also includes various filters and slicers, such as:
 Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., same-day, express, etc.).Suppliers: Enables filtering data based on specific suppliers.Logistic Firms: Allows filtering data based on the logistic firms involved in delivery.Mode of Payment: Filters data based on the payment modes used by customers.Gender Wise: Allows filtering data based on the gender of customers.Customer ID Wise: Enables filtering data based on specific customer ids.Customer Name Wise: Allows filtering data based on customer names.Order ID Wise: Filters data based on specific order ids.
 
-[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiOWI0YTI5MDYtZjRlYS00ZjI3LTk3NDctMDY2ZDY0MjI0OTIxIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiYzZmNGI5MWEtNzA5Yi00MWQ4LTg4MzUtZjcxMWYxODQyMDllIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # POWER AUTOMATE FOR JOB APPLICANT PROFILE SCREENING
 
