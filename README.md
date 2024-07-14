@@ -75,7 +75,7 @@ Sales: Displays the total sales figure, which is 3M.Discount: Shows the total am
 The dashboard also includes various filters and slicers, such as:
 Mode of Delivery: Allows filtering data based on the mode of delivery (e.g., same-day, express, etc.).Suppliers: Enables filtering data based on specific suppliers.Logistic Firms: Allows filtering data based on the logistic firms involved in delivery.Mode of Payment: Filters data based on the payment modes used by customers.Gender Wise: Allows filtering data based on the gender of customers.Customer ID Wise: Enables filtering data based on specific customer ids.Customer Name Wise: Allows filtering data based on customer names.Order ID Wise: Filters data based on specific order ids.
 
-[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiYzZmNGI5MWEtNzA5Yi00MWQ4LTg4MzUtZjcxMWYxODQyMDllIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[CLICK HERE TO VIEW](https://app.powerbi.com/view?r=eyJrIjoiODM4NmIzNjctMTFhOC00YWIxLWE0MzYtZjdhYTQ0ZGI5OWViIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 # POWER AUTOMATE FOR JOB APPLICANT PROFILE SCREENING
 
