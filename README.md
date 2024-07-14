@@ -31,7 +31,6 @@ The 100 responses were divided into two groups with sizes of 47 and 53, respecti
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf) R
 
 [CLICK HERE TO VIEW](https://github.com/jaggaraj/STYLELABS/blob/main/cluster%20analysis.pdf) SPSS
-[g](https://github.com/jaggarajununna/STYLELABS/blob/main/REBEL%20salesdashboard.pbix)
  
 
 # MY SQL DATA BASE FOR HUMAN RESOURCES MANAGEMENT OPERATION
