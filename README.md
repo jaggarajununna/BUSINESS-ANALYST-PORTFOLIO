@@ -23,6 +23,8 @@ PREDICTING FUTURE TRENDS
 #  TOOLS
 
  ![R](https://github.com/jaggarajununna/STYLELABS/assets/123171411/19c06d87-d0ea-472b-9528-84a28580775a)
+
+ ![view](https://github.com/jaggarajununna/PORTFOLIO/blob/main/ETL%20%26%20DATA%20ANALYSIS.gif)
  
 # SEGMENTATION OF MARKET
 
