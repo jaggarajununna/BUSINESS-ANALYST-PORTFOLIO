@@ -1,4 +1,5 @@
-![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/jaggaraj/STYLELABS/assets/123171411/99007dbd-fbf5-4e88-b941-169a7b730edf)
+![Green Pink Multicolor Fashion Brand Photo Collage LinkedIn Background Photo](https://github.com/user-attachments/assets/183e6ddd-ff7f-4563-bce6-b784b11916f7)
+
 
 IMPLEMENING CERTAIN DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PVT LTD.
 
