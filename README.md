@@ -23,7 +23,9 @@ The 100 responses were categorized into two groups using k-modes clustering, bas
 [HUMAN RESOURCES MANAGEMENT DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png)
 
 
-![OIP (2)](https://github.com/user-attachments/assets/48c2e9d1-ea81-48c4-9026-cd626b72c320)
+![ims-complete-venue-1](https://github.com/user-attachments/assets/3520c471-498f-4dec-9d6a-5445385a3868)
+
+
 
 
    
@@ -33,7 +35,9 @@ The document presents a schema for a MySQL database called "stylelabs_hr" that m
 
 [BUSINESS OPERATIONS DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png)
 
-![OIP (2)](https://github.com/user-attachments/assets/5c938c32-1efb-497f-aea6-dec889bd0ea0)
+![ims-complete-venue-1](https://github.com/user-attachments/assets/9a9a5659-8584-4c0b-bfb3-638daf2201d8)
+
+
 
 
 The "stylelabs_operation" database schema is a MySQL database for managing an e-commerce operation. It comprises nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details. These tables store customer information, order-related data, payment modes, delivery feedback, product feedback, hub details, location_log, mode_of_delivery, and supplier details. The tables are interconnected through foreign key relationships for efficient data retrieval and analysis.
@@ -41,7 +45,9 @@ The "stylelabs_operation" database schema is a MySQL database for managing an e-
 
 [HUMAN RESOURCES MANAGEMENT DASHBOARD](https://app.powerbi.com/viewr=eyJrIjoiODE5NWZjZDQtNDU0MC00ZTY4LTgzMzYtOTliMDI5NDg4MGI5IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
-![Sales-YTD-dashboard-example-1efebb](https://github.com/user-attachments/assets/b79f48c7-f3a5-4119-b271-46673805b190)
+![R](https://github.com/user-attachments/assets/bcda2890-d23b-4ffb-942a-3fa54d43126f)
+
+
 
 
 The Training and Development Dashboard is a comprehensive tool for tracking employee performance and training costs. It includes filters for employee code and skill level, total training attendance, scheduled training sessions, promotion statuses, cost centers, job designations, and performance indicators. The dashboard also shows the trend of scheduled trainings over time, recruitment types and education levels, and date ranges. The recruitment dashboard shows the total number of employees, cost of recruitment, salaries, gender diversity, working status, recruitment trends, attrition rate, and current timestamp. Filters include joining date, employee codes, education level, recruitment type, salary grades, cost centers, job designations, and skill levels.
@@ -49,7 +55,9 @@ The Training and Development Dashboard is a comprehensive tool for tracking empl
 
 [BUSINESS OPERATIONS DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODM4NmIzNjctMTFhOC00YWIxLWE0MzYtZjdhYTQ0ZGI5OWViIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
-![Sales-YTD-dashboard-example-1efebb](https://github.com/user-attachments/assets/040a381c-15fc-4cbf-9a25-c85fefc4b508)
+![R](https://github.com/user-attachments/assets/9216bd7a-adc2-43f9-accb-c1bc94fd71ac)
+
+
 
 
 The "Style Labs Sales Dashboard" provides an overview of sales metrics and key performance indicators for an organization. It includes sales, discounts, product sales, customers, delivery charges, and order trends. The dashboard also includes filters and slicers for delivery mode, suppliers, logistic firms, payment modes, gender, customer ID, customer name, and order ID. The data is organized by order ID.
@@ -75,7 +83,8 @@ The data shows a strong association between SL Custom Joggers-2 and SL Custom Jo
 
 [PREDICTING EMPLOYEE CHURN](https://github.com/jaggaraj/STYLELABS/blob/main/Untitled2.ipynb)
 
-![What-Is-Machine-Learning1](https://github.com/user-attachments/assets/a31bfa4a-3d81-4383-8882-895f2d979ab6)
+![960x0](https://github.com/user-attachments/assets/bc942069-2bdf-4884-a8aa-72ee53f18256)
+
 
 
 The data is a matrix with columns representing individual performance, experience, and other factors. Key Performance Indicators (kPI), experience, total ratings, promotions, sales, salary, working hours, trainings, stress relief programs, and turnover are used to measure an employee's overall performance. The random forest model has an accuracy of 65 and can predict employee turnover. The data is based on customer or peer feedback and can provide valuable insights into employee performance.
