@@ -14,7 +14,7 @@ Style labs is primarily focused on providing clients with high-quality designer 
  
 [SEGMENTATION OF CUSTOMERS](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf) 
 
-![VIEW](https://github.com/jaggarajununna/PORTFOLIO/blob/main/Segmentation.jpg)
+![VIEW](https://github.com/jaggarajununna/STYLELABS/blob/main/13952Market-basket-analysis.png)
 
 The 100 responses were categorized into two groups using k-modes clustering, based on age, salary, event, and preferences. Cluster 1 included individuals aged 36-45 with over $100,000 per year, attending festivals, and preferring trendy styles, while Cluster 2 included those aged 26-35 with over $50,000 per year, attending dates, and preferring casual styles.
  
