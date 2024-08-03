@@ -26,7 +26,7 @@ PREDICTING FUTURE TRENDS
 
  ![view](https://github.com/jaggarajununna/PORTFOLIO/blob/main/ETL%20%26%20DATA%20ANALYSIS.gif)
  
-# SEGMENTATION OF MARKET
+# SEGMENTATION OF CUSTOMERS
 
 The 100 responses were divided into two groups with sizes of 47 and 53, respectively, via the k-modes clustering method. The combination of age group, salary, event, and preferences determined the clustering. The modes, or most frequent values, for each cluster were revealed. These revealed that Cluster 1 was defined by individuals between the ages of 36 and 45 who made over $100,000 per year, attended festivals, and preferred trendy styles, while Cluster 2 was defined by individuals between the ages of 26 and 35 who made over $50,000 per year, went on dates, and preferred casual styles.Responses are divided into two segments; based on this, we can design marketing strategies accordingly to cater to the preferences of each segement of customers.
 
