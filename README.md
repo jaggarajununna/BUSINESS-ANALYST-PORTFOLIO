@@ -43,7 +43,7 @@ The document presents a schema for a MySQL database called "stylelabs_hr" that m
 The "stylelabs_operation" database schema is a MySQL database for managing an e-commerce operation. It comprises nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details. These tables store customer information, order-related data, payment modes, delivery feedback, product feedback, hub details, location_log, mode_of_delivery, and supplier details. The tables are interconnected through foreign key relationships for efficient data retrieval and analysis.
 
 
-[HUMAN RESOURCES MANAGEMENT DASHBOARD](https://app.powerbi.com/viewr=eyJrIjoiODE5NWZjZDQtNDU0MC00ZTY4LTgzMzYtOTliMDI5NDg4MGI5IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
+[HUMAN RESOURCES MANAGEMENT DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODE5NWZjZDQtNDU0MC00ZTY4LTgzMzYtOTliMDI5NDg4MGI5IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
 ![R](https://github.com/user-attachments/assets/bcda2890-d23b-4ffb-942a-3fa54d43126f)
 
