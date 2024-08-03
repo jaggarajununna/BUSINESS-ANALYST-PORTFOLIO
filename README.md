@@ -23,7 +23,8 @@ The 100 responses were categorized into two groups using k-modes clustering, bas
 [HUMAN RESOURCES MANAGEMENT DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png)
 
 
-![OIP](https://github.com/user-attachments/assets/cad6ae48-b0cf-45db-8f8d-a401f2f1fbbe)
+![OIP (2)](https://github.com/user-attachments/assets/48c2e9d1-ea81-48c4-9026-cd626b72c320)
+
 
    
 The document presents a schema for a MySQL database called "stylelabs_hr" that manages employee-related information. It consists of seven interconnected tables: cost_center, education_details, employee_details, emp_designation_promotion, recruitment_type, salary_band, and training_details. These tables store employee information, such as cost center, education, and training. The schema is interconnected through foreign key relationships, ensuring data integrity and efficient data retrieval and analysis across various aspects of human resource management.
@@ -31,6 +32,9 @@ The document presents a schema for a MySQL database called "stylelabs_hr" that m
 
 
 [BUSINESS OPERATIONS DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20operations.png)
+
+![OIP (2)](https://github.com/user-attachments/assets/5c938c32-1efb-497f-aea6-dec889bd0ea0)
+
 
 The "stylelabs_operation" database schema is a MySQL database for managing an e-commerce operation. It comprises nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details. These tables store customer information, order-related data, payment modes, delivery feedback, product feedback, hub details, location_log, mode_of_delivery, and supplier details. The tables are interconnected through foreign key relationships for efficient data retrieval and analysis.
 
@@ -45,18 +49,25 @@ The Training and Development Dashboard is a comprehensive tool for tracking empl
 
 [BUSINESS OPERATIONS DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODM4NmIzNjctMTFhOC00YWIxLWE0MzYtZjdhYTQ0ZGI5OWViIiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
 
+![Sales-YTD-dashboard-example-1efebb](https://github.com/user-attachments/assets/040a381c-15fc-4cbf-9a25-c85fefc4b508)
+
+
 The "Style Labs Sales Dashboard" provides an overview of sales metrics and key performance indicators for an organization. It includes sales, discounts, product sales, customers, delivery charges, and order trends. The dashboard also includes filters and slicers for delivery mode, suppliers, logistic firms, payment modes, gender, customer ID, customer name, and order ID. The data is organized by order ID.
 
 
 
 [ATS](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
 
+![Applicant-Tracking-System-Transforming-Hiring-Norms](https://github.com/user-attachments/assets/4d10adaa-3708-4ffb-85e3-41191a0636bd)
+
+
 The process starts with a new response submission, gathers response details, and evaluates profile skill match with required skills. If true, a row is added to a selection table, followed by sending an email. If false, a row is added to a rejection table and sent an email.
 
 
 [MARKET BASKET ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/MARKET%20BASKET%20ANALYISIS.pdf)
 
-![13952Market-basket-analysis](https://github.com/user-attachments/assets/d43feb00-7ca9-4ff5-a504-7cd4869da362)
+![market-basket-analysis-retail](https://github.com/user-attachments/assets/af061e6e-6c64-4f2b-8b8d-c118ba0d6501)
+
 
 
 The data shows a strong association between SL Custom Joggers-2 and SL Custom Joggers-3, suggesting customers are highly likely to purchase both styles in the same transaction. This is supported by high values (0.588 & 0.555), and a lift of 3.49.
@@ -73,7 +84,8 @@ The data is a matrix with columns representing individual performance, experienc
 
 [SALES FORECASTING](https://github.com/jaggaraj/STYLELABS/blob/main/prophet%20by%20facebook.pdf)
 
-![OIP (1)](https://github.com/user-attachments/assets/fdc3269f-03d3-4fc3-a5b9-6252c31e4be2)
+![621e1a2f28ded71ee95aeede_6ProvenSalesForecastingMethodstoDriveRevenue1_a117440b5ae227c3dba5264a6521da06_2000](https://github.com/user-attachments/assets/8871c1c9-a943-4c6a-a8fc-9b08c1ecf9f5)
+
 
 
 
