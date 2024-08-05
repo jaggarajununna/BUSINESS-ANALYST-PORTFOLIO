@@ -13,12 +13,7 @@ Style labs is primarily focused on providing clients with high-quality designer 
 
 
  
-[SEGMENTATION OF CUSTOMERS](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf) 
 
-![Segmentation](https://github.com/user-attachments/assets/c3d61443-2d0f-4b84-997e-b6b1a7d529a8)
-
-
-The 100 responses were categorized into two groups using k-modes clustering, based on age, salary, event, and preferences. Cluster 1 included individuals aged 36-45 with over $100,000 per year, attending festivals, and preferring trendy styles, while Cluster 2 included those aged 26-35 with over $50,000 per year, attending dates, and preferring casual styles.
  
 
 [HUMAN RESOURCES MANAGEMENT DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png)
@@ -42,6 +37,12 @@ The document presents a schema for a MySQL database called "stylelabs_hr" that m
 
 
 The "stylelabs_operation" database schema is a MySQL database for managing an e-commerce operation. It comprises nine interconnected tables: customer_details, delivery_feedback, hub_details, location_log, mode_of_delivery, mode_of_payment, order_details, product_feedback, and supplier_details. These tables store customer information, order-related data, payment modes, delivery feedback, product feedback, hub details, location_log, mode_of_delivery, and supplier details. The tables are interconnected through foreign key relationships for efficient data retrieval and analysis.
+
+[DATACLEANING](https://hub.knime.com/-/spaces/-/~ia-1SWC2SdmYb1ps/1/)
+
+![data-cleansing-solutions](https://github.com/user-attachments/assets/eb801f85-25b9-45d6-ab59-240e2214ecbb)
+
+The process involves configuring MySQL database credentials, connecting to the database, selecting a table, reading data, using string cleaners and string to numbers, handling missing values, filtering rows and columns, registering with Microsoft Authenticator, and sending the cleaned data to Power BI for visualization and analysis. The system also includes a row filter and column filter for analysis.
 
 
 [HUMAN RESOURCES MANAGEMENT DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiODE5NWZjZDQtNDU0MC00ZTY4LTgzMzYtOTliMDI5NDg4MGI5IiwidCI6IjgwOGNjODNlLWE1NDYtNDdlNy1hMDNmLTczYTFlYmJhMjRmMyIsImMiOjEwfQ%3D%3D)
@@ -67,10 +68,19 @@ The "Style Labs Sales Dashboard" provides an overview of sales metrics and key p
 
 [ATS](https://github.com/jaggaraj/STYLELABS/blob/main/hr%20power%20automate.pdf)
 
+
+
 ![Applicant-Tracking-System-Transforming-Hiring-Norms](https://github.com/user-attachments/assets/4d10adaa-3708-4ffb-85e3-41191a0636bd)
 
 
 The process starts with a new response submission, gathers response details, and evaluates profile skill match with required skills. If true, a row is added to a selection table, followed by sending an email. If false, a row is added to a rejection table and sent an email.
+
+[SEGMENTATION OF CUSTOMERS](https://github.com/jaggaraj/STYLELABS/blob/main/CLUSTER%20ANALYSIS.pdf) 
+
+![Segmentation](https://github.com/user-attachments/assets/c3d61443-2d0f-4b84-997e-b6b1a7d529a8)
+
+
+The 100 responses were categorized into two groups using k-modes clustering, based on age, salary, event, and preferences. Cluster 1 included individuals aged 36-45 with over $100,000 per year, attending festivals, and preferring trendy styles, while Cluster 2 included those aged 26-35 with over $50,000 per year, attending dates, and preferring casual styles.
 
 
 [MARKET BASKET ANALYSIS](https://github.com/jaggaraj/STYLELABS/blob/main/MARKET%20BASKET%20ANALYISIS.pdf)
