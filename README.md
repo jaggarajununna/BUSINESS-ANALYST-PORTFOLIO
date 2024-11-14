@@ -44,7 +44,7 @@ The "stylelabs_operation" database schema is a MySQL database for managing an e-
 
 ------------------------------------------------------------------------
 
-[DATACLEANING](https://hub.knime.com/-/spaces/-/~ia-1SWC2SdmYb1ps/1/)
+[ETL PIPELINES](https://github.com/jaggarajununna/STYLELABS/blob/main/Screenshot%202024-11-14%20105838.pdf)
 
 ![data-cleansing-solutions](https://github.com/user-attachments/assets/eb801f85-25b9-45d6-ab59-240e2214ecbb)
 
