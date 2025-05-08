@@ -22,8 +22,8 @@ Style labs is primarily focused on providing clients with high-quality designer 
 
 [HUMAN RESOURCES MANAGEMENT DATABASE](https://github.com/jaggaraj/STYLELABS/blob/main/mysql%20stylelabs%20hr.png)
 
-!
- [ims-complete-venue-1](https://github.com/user-attachments/assets/3520c471-498f-4dec-9d6a-5445385a3868)
+
+![ims-complete-venue-1](https://github.com/user-attachments/assets/3520c471-498f-4dec-9d6a-5445385a3868)
 
 
 
