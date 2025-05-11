@@ -4,6 +4,9 @@
 
 
 #  INTRODUCTION
+<meta name="This repository showcases my Data analysis and Business intelligence skills, including expertise in Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), Mysql, Power BI, PowerPoint, Knime, Spss, R-programming, Tableau, Word, Visio, Jira, Data visualization, Discriptive statistics, Diagnostic statistics, Predictive statistics, Data cleaning, Market basket analysis(MBA), Prophet model, Arima model, Sarima model, Sentiment analysis, Data transformation, Data cleaning, Data normalization, Data encoders, Extract transform load(ETL), Machine learing(ML), Dashboard development, and Storytelling with data.
+">
+
 This repository showcases my Data analysis and Business intelligence skills, including expertise in Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), Mysql, Power BI, PowerPoint, Knime, Spss, R-programming, Tableau, Word, Visio, Jira, Data visualization, Discriptive statistics, Diagnostic statistics, Predictive statistics, Data cleaning, Market basket analysis(MBA), Prophet model, Arima model, Sarima model, Sentiment analysis, Data transformation, Data cleaning, Data normalization, Data encoders, Extract transform load(ETL), Machine learing(ML), Dashboard development, and Storytelling with data.
 
 
