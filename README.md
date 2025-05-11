@@ -62,7 +62,7 @@ The process involves configuring MySQL database credentials, connecting to the d
 
 
 
-The Training and Development Dashboard is a comprehensive tool for tracking employee performance and training costs. It includes filters for employee code and skill level, total training attendance, scheduled training sessions, promotion statuses, cost centers, job designations, and performance indicators. The dashboard also shows the trend of scheduled trainings over time, recruitment types and education levels, and date ranges. The recruitment dashboard shows the total number of employees, cost of recruitment, salaries, gender diversity, working status, recruitment trends, attrition rate, and current timestamp. Filters include joining date, employee codes, education level, recruitment type, salary grades, cost centers, job designations, and skill levels.
+The people analytics consists of training and development Dashboard is a comprehensive tool for tracking employee performance and training costs. It includes filters for employee code and skill level, total training attendance, scheduled training sessions, promotion statuses, cost centers, job designations, and performance indicators. The dashboard also shows the trend of scheduled trainings over time, recruitment types and education levels, and date ranges. The recruitment dashboard shows the total number of employees, cost of recruitment, salaries, gender diversity, working status, recruitment trends, attrition rate, and current timestamp. Filters include joining date, employee codes, education level, recruitment type, salary grades, cost centers, job designations, and skill levels.
 
 --------------------------------------------------------------------------------
 
