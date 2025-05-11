@@ -2,10 +2,9 @@
 
 
 
-IMPLEMENING DATA STORAGE AND DATA ANALYSIS TECHNOLOGIES AT STYLE LABS PVT LTD.
 
 #  INTRODUCTION
-Style labs is primarily focused on providing clients with high-quality designer clothing. They put a lot of effort into creating unique, superior designs that satisfy a range of stylistic preferences. As its business grows, the company is thinking about making decisions based on data, and it has begun implementing certain data storage and data analysis technologies.
+This repository showcases my Data analysis and Business intelligence skills, including expertise in Excel, Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), Mysql, Power BI, PowerPoint, Knime, Spss, R-programming, Tableau, Word, Visio, Jira, Data visualization, Discriptive statistics, Diagnostic statistics, Predictive statistics, Data cleaning, Market basket analysis(MBA), Prophet model, Arima model, Sarima model, Sentiment analysis, Data transformation, Data cleaning, Data normalization, Data encoders, Extract transform load(ETL), Machine learing(ML), Dashboard development, and Storytelling with data.
 
 
 #  TOOLS
